@@ -1,6 +1,7 @@
 ## Overview of wireguard web UIs
 
-|               Reposito                        |   Last Release | Supported Deployment | Multiple Interfaces | Manual (Peer) Configuration |  Auth  | Notes |
+
+|               Repository                      |   Last Release | Supported Deployment | Multiple Interfaces | Manual (Peer) Configuration |  Auth  | Notes |
 | :-------------------------------------------  |     :----:     |       :----:         |        :----:       |        :----:               |  :--:  | :---: |
 | https://github.com/EmbarkStudios/wg-ui        | Sep 7, 2021    | Docker, Bare-metal   |        ❌           |         ❌                 | Basic  | Not authenticated by default |
 | https://github.com/subspacecommunity/subspace | Jun 12, 2021   | Docker, Bare-metal   |        ❌           |         ❌                 | SSO    | ARM, Internal DNS (dnsmasq)  |
